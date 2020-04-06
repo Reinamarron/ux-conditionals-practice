@@ -21,11 +21,20 @@
     otherwise return "red";
 */
 function getColor(number) {
-    // Uncomment and complete
-    return /* ( Your code Here ) ?  Your code Here  :  Your code Here */;
-}
+ let getColor > 15 = blue;
+ let result < 15 = true;
+ let getColor > 5 = red;
+ let result < 10 = true;
+ let getColor > 10 = false;
+ let result < 10 = true; 
+ let getColor > 10 = red;
+ let result < 10 = true;
+ if 
 
-/* 
+return (getColor) ? 
+ 
+}
+/
    -------TESTS---------------------------------------------------------------
    Run these commands to make sure you did it right. They should all be true.
 */
@@ -50,7 +59,13 @@ console.log(getColor(10) === "red");
     if the brightness is greater than or equal to 200, then return "on"
 */
 function lightStatus(brightness) {
-    return /* Put both ternary statements here, in one line */;
+    return let 
+    if (brightness > 0 < 200 === )"off"{
+       brightness > = 200 "on"
+    }
+    else if ( === ""){
+
+    };
 }
 
 /* 
@@ -86,18 +101,63 @@ console.log(lightStatus(255) === "on");
 */
 
 function getLightBulbStatusDisplayString(status) {
-    let result = "";
-    /* uncomment and complete
-    switch( your code here ) {
-      case "your code here": 
-        your code here;
+    let lightbulb = "on";
+     let house is bright; 
+    switch( bright ) {
+        house = "dark";
+      case "bright";
+      house = "right";
         break;
-      etc...
     }
     */
-    return result;
 }
+function getLightBulbStatusDisplayString(status) {
+    let lightbulb = "dimmed";
+     let house nice and dimmed; 
+    switch( nice ) {
+      case "dimmed": 
+        house = "nice and dim";
+        break;
 
+    }
+    */
+    function getLightBulbStatusDisplayString(status) {
+        let lightbulb = "deleted";
+         let removed; 
+        switch( removed ) {
+          case "deleted": 
+            house = "deleted and removed";
+            break;
+        }
+        */
+    function getLightBulbStatusDisplayString(status) {
+            let lightbulb = "broken";
+             let no lights; 
+            switch( broken ) {
+              case "light off": 
+                house = "off";
+                break;
+            }
+            */
+    function getLightBulbStatusDisplayString(status) {
+            let lightbulb = "offline";
+             let dark; 
+            switch( broken ) {
+              case "dark": 
+                house = "broken";
+                break;
+            }
+    function getLightBulbStatusDisplayString(status) {
+                let lightbulb = "any value";
+                 let dark; 
+                switch( broken ) {
+                  case "any value": 
+                    house = "wrong";
+                    break;
+                }
+    
+            */
+            return yes
 /* 
    -------TESTS---------------------------------------------------------------
    Run these commands to make sure you did it right. They should all be true.
@@ -200,9 +260,27 @@ function turnOffLight(lightName) {
 /* 
    -------YOUR CODE-----------------------------------------------------------
 */
-function updateLights(somebodyIsHome, theyAreWatchingTV, itIsDarkOutside, theyAreCooking, theyWentToBed) {
+function updateLights(somebodyIsHome, theyAreWatchingTV, itIsDarkOutside, theyAreCooking, theyAreCooking)
+ {
 
-    // Write your code here!  You don't need to return anything, just call the given functions
+
+    Write your code here! 
+    let somebodyIsHome = true
+    let theyAreWatchingTV = turnOnLight;
+    let itIsDarkOutside = 4;
+    let theyAreCooking;
+
+    if (somebodyIsHome) {
+        console.log("livingRoomLight");
+
+    if (theyAreWatchingTV) = 0 {
+     console.log("itIsDarkOutside");
+    } else if ("kitchenLight");
+    console.log(bedroomLight);
+    
+    }
+    You don't need to return anything, just call the given functions
+    
     // You should be using if else statements and the function arguments
     // example of turning a light on
     turnOnLight("livingRoomLight");
