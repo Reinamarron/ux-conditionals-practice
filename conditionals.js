@@ -22,6 +22,11 @@
 */
 function getColor(number) {
     // Uncomment and complete
+    if (number > 10) {
+        return "blue"    
+    } else{
+        return "red"                           
+    }
     return /* ( Your code Here ) ?  Your code Here  :  Your code Here */;
 }
 
